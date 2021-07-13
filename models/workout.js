@@ -32,6 +32,7 @@ const WorkoutSchema = new Schema(
         },
         duration: {
           type: Number,
+          required: true,
         },
       },
     ],
