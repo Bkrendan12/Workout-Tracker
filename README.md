@@ -42,17 +42,17 @@ You are required to submit the following:
 
 # Team-Profile-Generator
 
-## Project Title
+## Workout Tracker
 
-Team Profile Generator
+Workout Tracker
 
 ## Link to project repository:
 
-[Github-Repo](https://github.com/Bkrendan12/Team-Profile-Generator)
+[Github-Repo](https://github.com/Bkrendan12/Workout-Tracker)
 
 ## Link to Project Video Walk-through
 
-[Link-Application-video-walkthrough](https://www.youtube.com/watch?v=tZYcRLTnYsA)
+[Link-Application-video-walkthrough](https://youtu.be/vRJiZS6c0AM)
 
 ## Screenshots for Application
 
